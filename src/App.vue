@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
 import TableTodo from './components/TableTodo.vue';
 
 export default {
@@ -43,7 +42,6 @@ export default {
     };
   },
   components: {
-    HelloWorld,
     TableTodo,
   },
 };
