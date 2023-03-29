@@ -22,6 +22,7 @@ export default {
           completed: false,
         },
       ],
+      // Cada columna posee su propio svg
       columns: [
         {
           prop: 'date',
